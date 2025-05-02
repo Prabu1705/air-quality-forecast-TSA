@@ -1,4 +1,4 @@
 # Time-Series-Analysis
 Resources:<br/>
->https://medium.com/@varun030403/time-series-forecasting-theoretical-aspects-part-1-9adf7b1e0ce3
->
+>[Basic Theory 1](https://medium.com/@varun030403/time-series-forecasting-theoretical-aspects-part-1-9adf7b1e0ce3)
+>[How to Code](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python)
